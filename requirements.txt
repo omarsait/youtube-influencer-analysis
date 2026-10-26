@@ -1,0 +1,6 @@
+pandas
+matplotlib
+seaborn
+vaderSentiment
+google-api-python-client
+jupyter
